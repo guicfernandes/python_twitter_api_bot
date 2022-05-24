@@ -1,3 +1,6 @@
+'''
+    Using Version 2 of twiter api
+'''
 # pip install tweepy
 import tweepy
 
